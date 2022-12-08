@@ -4,9 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace fitnessApp.BL
+namespace fitnessApp.CMD
 {
-    public class Class1
+    internal class Program
     {
+        static void Main(string[] args)
+        {
+        }
     }
 }
