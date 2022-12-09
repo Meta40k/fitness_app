@@ -1,0 +1,11 @@
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\bin\Debug\fitnessApp.CMD.exe.config
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\bin\Debug\fitnessApp.CMD.exe
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\bin\Debug\fitnessApp.CMD.pdb
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\bin\Debug\fitnessApp.BL.dll
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\bin\Debug\fitnessApp.BL.pdb
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.csproj.AssemblyReference.cache
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.csproj.SuggestedBindingRedirects.cache
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.csproj.CoreCompileInputs.cache
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.csproj.CopyComplete
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.exe
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.CMD\obj\Debug\fitnessApp.CMD.pdb

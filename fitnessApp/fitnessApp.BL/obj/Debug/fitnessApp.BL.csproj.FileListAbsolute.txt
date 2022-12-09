@@ -1,0 +1,6 @@
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\bin\Debug\fitnessApp.BL.dll
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\bin\Debug\fitnessApp.BL.pdb
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\obj\Debug\fitnessApp.BL.csproj.AssemblyReference.cache
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\obj\Debug\fitnessApp.BL.csproj.CoreCompileInputs.cache
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\obj\Debug\fitnessApp.BL.dll
+C:\MyProjects\fitness_app\fitnessApp\fitnessApp.BL\obj\Debug\fitnessApp.BL.pdb
