@@ -12,6 +12,8 @@ namespace fitnessApp.BL.Model
     /// <summary>
     /// Пользователь.
     /// </summary>
+
+    [Serializable]
     internal class User
     {
         public string Name { get; } //для того, что бы параметр был readOnly
@@ -46,23 +48,24 @@ namespace fitnessApp.BL.Model
             {
                 throw new ArgumentNullException("имя пользователя не может быть пустым или null", nameof(name));
             }
-            if(Gender == null)
+            if (Gender == null)
             {
                 throw new ArgumentException("пол не может быть null.", nameof(Gender));
             }
-            if(BirthDate < DateTime.Parse("01.01.1900") || BirthDate > DateTime.Now) 
+            if (BirthDate < DateTime.Parse("01.01.1900") || BirthDate > DateTime.Now)
             {
                 throw new ArgumentException("дата не можеть быть такой");
             }
-            if(Weight <= 0)
+            if (Weight <= 0)
             {
                 throw new ArgumentException("Вес там с ошибкой. Исправь!");
             }
-            if(Height <= 0)
+            if (Height <= 0)
             {
                 throw new ArgumentException("Рост не может быть меньше либо равен нулю", nameof(Height));
             }
             #endregion
+
         }
+
     }
-}

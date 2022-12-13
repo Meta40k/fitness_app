@@ -7,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace fitnessApp.BL.Model
 {/// <summary>
-/// делать XML комментарии надо ко всем public методам
-/// </summary>
-    public class Gender
+ /// делать XML комментарии надо ко всем public методам
+ /// </summary>
+  
+    [Serializable]
+        public class Gender
     {
         public string Name { get; }
 
